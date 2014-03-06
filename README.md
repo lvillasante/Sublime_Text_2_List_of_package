@@ -1,2 +1,4 @@
-Sublime_Text_2_List_of_package
+Sublime Text 2 List of package
 ==============================
+
+by Luis Villasante
