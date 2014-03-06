@@ -1,0 +1,123 @@
+Sublime Package Control
+=======================
+http://wbond.net/sublime_packages/package_control/installation
+
+ctrl+Shift+P
+
+import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
+
+
+
+Formatting HTML Code using Sublime Text 2
+=========================================
+http://stackoverflow.com/questions/8839753/formatting-html-code-using-sublime-text-2
+
+{ "keys": ["ctrl+12"], "command": "reindent" , "args": {"single_line": false}}
+{ "keys": ["alt+12"], "command": "reindent" , "args": {"single_line": false}}
+
+
+
+Sublime Prefixr
+===============
+https://github.com/wbond/sublime_prefixr
+http://wbond.net/sublime_packages/prefixr
+
+ctrl+alt+x
+
+
+
+Sublime Alignment
+=================
+https://github.com/wbond/sublime_alignment
+http://wbond.net/sublime_packages/alignment
+
+ctrl+alt+A
+
+
+
+sublime-csslint
+==============================
+https://github.com/austinhappel/sublime-csslint
+
+ctrl + alt + c
+
+Requiere NODEjs
+
+
+HtmlTidy
+========
+No es muy bueno, desordena todo en lugar de ordenarlo
+
+
+SideBarEnhancements
+===================
+https://github.com/titoBouzout/SideBarEnhancements
+
+
+Sublime Tortoise
+================
+http://wbond.net/sublime_packages/tortoise
+
+Commit
+    ctrl+alt+v+c 
+
+Update/Sync
+    ctrl+alt+v+u 
+
+File Diffs
+==========
+https://github.com/colinta/SublimeFileDiffs
+Compara archivos entre los tab actuales
+
+Color Picker
+============
+https://github.com/weslly/ColorPicker
+Cambiar el color con ventana emergente (Win, Linux, Mac)
+
+Linux: ctrl+shift+c
+Windows: ctrl+shift+c
+OS X: cmd+shift+c 
+
+
+LiveStyle
+=========
+http://livestyle.emmet.io/
+
+1. Install “LiveStyle” plugin from Package Control in Sublime Text.
+2. Install extension for Google Chrome.
+https://chrome.google.com/webstore/detail/emmet-livestyle/diebikgmpmeppiilkaijjbdgciafajmg
+3. Go to page you wish to live edit.
+4. In Sublime Text, open some CSS files.
+5. In Chrome, open DevTools, go to LiveStyle panel and follow instructions
+
+
+Bootstrap
+=========
+https://github.com/devtellect/sublime-twitter-bootstrap-snippets/
+Para manejo de Twitter Bootstrap
+
+
+
+
+saber la ruta exacta de los packages
+====================================
+sublime.packages_path()
+
+
+Cambiar entre proyectos
+=======================
+CTRL + ALT + P
+
+Buscar el nombre de funcion/archivo
+===================================
+CTRL + P => escribir nombre de la funcion
+
+Buscar el nombre de variable dentro de archivo
+==============================================
+name_of_class @ init 
+
+Buscar numero de linea en archivo
+=================================
+name_of_class: 1000
+
+
