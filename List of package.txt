@@ -13,8 +13,12 @@ Formatting HTML Code using Sublime Text 2
 http://stackoverflow.com/questions/8839753/formatting-html-code-using-sublime-text-2
 
 { "keys": ["ctrl+12"], "command": "reindent" , "args": {"single_line": false}}
-{ "keys": ["alt+12"], "command": "reindent" , "args": {"single_line": false}}
+{ "keys": ["alt+11"], "command": "reindent" , "args": {"single_line": false}}
 
+
+File Path - AutofileName
+=========
+https://github.com/BoundInCode/AutoFileName
 
 
 Sublime Prefixr
@@ -83,7 +87,7 @@ LiveStyle
 =========
 http://livestyle.emmet.io/
 
-1. Install “LiveStyle” plugin from Package Control in Sublime Text.
+1. Install ï¿½LiveStyleï¿½ plugin from Package Control in Sublime Text.
 2. Install extension for Google Chrome.
 https://chrome.google.com/webstore/detail/emmet-livestyle/diebikgmpmeppiilkaijjbdgciafajmg
 3. Go to page you wish to live edit.
