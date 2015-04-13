@@ -17,9 +17,13 @@ http://stackoverflow.com/questions/8839753/formatting-html-code-using-sublime-te
 
 
 File Path - AutofileName
-=========
+========================
 https://github.com/BoundInCode/AutoFileName
 
+
+Emmet — ex Zend coding
+================================================
+http://emmet.io/
 
 Sublime Prefixr
 ===============
