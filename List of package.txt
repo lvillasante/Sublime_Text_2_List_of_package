@@ -128,4 +128,8 @@ Buscar numero de linea en archivo
 =================================
 name_of_class: 1000
 
+encerrar en tag
+===============
+WIN shift + ALT y escribimos el nombre del tag
+
 
