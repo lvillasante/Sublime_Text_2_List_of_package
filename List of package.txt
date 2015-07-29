@@ -138,3 +138,8 @@ Buscar el tag de cierre de un tag HTML
 WIN CRTL + ALT + J
 MAC shift + control +t
 
+Seleccionar el contenido interno de un tag largo
+================================================
+WIN Ctrl + SHIFT + A
+MAC Command + shift + a
+
