@@ -131,5 +131,10 @@ name_of_class: 1000
 encerrar en tag
 ===============
 WIN shift + ALT y escribimos el nombre del tag
+MAC
 
+Buscar el tag de cierre de un tag HTML
+======================================
+WIN CRTL + ALT + J
+MAC shift + control +t
 
